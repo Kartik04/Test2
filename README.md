@@ -1,2 +1,2 @@
 # Test2
-New test repo
+readme: New test repo
